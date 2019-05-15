@@ -1,0 +1,5 @@
+Partlist exported from /Users/andy/Documents/EAGLE/projects/Prius_Inverter_Adapter/Prius Adaptor PCB Horizontal.sch at 15/05/2019 21:06
+
+Qty Value    Device      Package     Parts Description                                                MANUFACTURER    PARTREV STANDARD               
+1            40HNONLATCH 40HNONLATCH PL1   CONNECTOR                                                                                                 
+1   776180-1 776180-1    TE_776180-1 J1    Conn Rectangular HDR 35 POS Solder RA Thru-Hole Automotive TE CONNECTIVITY H7      STANDARED RECOMENDATION

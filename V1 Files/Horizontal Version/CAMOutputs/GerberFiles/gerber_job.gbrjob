@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-15T20:06:31Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Prius Adaptor PCB Horizontal"
+        },
+        "Owner": "Andy Martell <sonachan1@aol.co.uk>",
+        "Size": {
+            "X": 29.75,
+            "Y": 78
+        }
+    }
+}
